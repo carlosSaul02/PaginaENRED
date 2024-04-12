@@ -27,6 +27,7 @@
     
     
     // Back to top button
+    /*
     $(window).scroll(function () {
         if ($(this).scrollTop() > 300) {
             $('.back-to-top').fadeIn('slow');
@@ -38,6 +39,7 @@
         $('html, body').animate({scrollTop: 0}, 100, 'easeInOutExpo');
         return false;
     });
+     */
 
 
     // Facts counter
